@@ -1,3 +1,7 @@
+# add2md 0.1.5
+
+* Added add-ins for functions `pn` for print current time, enjoy it!
+
 # add2md 0.1.4
 
 * Automatically copy feature for functions `m1`, `m2`, `m3` and `m_detail`, enjoy it!

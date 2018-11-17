@@ -1,7 +1,7 @@
 Package: add2md
 Type: Package
 Title: Add to markdown
-Version: 0.1.4
+Version: 0.1.5
 Authors@R: person("Jiaxiang", "", "Li", role = c("aut", "cre"), email = "alex.lijiaxiang@foxmail.com")
 Maintainer: Jiaxiang Li <alex.lijiaxiang@foxmail.com>
 Description: The goal of add2md is to help R users to type markdown in .Rmd.
@@ -16,4 +16,5 @@ Imports:
     clipr,
     glue,
     cli,
-    stringr
+    stringr,
+    rstudioapi

@@ -17,3 +17,8 @@ Name: Build detail and summary html5 style in markdown
 Description: This function helps users to fold the details by html5 tags.
 Binding: m_detail
 Interactive: false
+
+Name: Print current time
+Description: This function helps users to print current time just by shortcut.
+Binding: pn
+Interactive: false

@@ -7,10 +7,9 @@
 #' @return Character.
 #' @author Jiaxiang Li
 #'
-#' @import clipr
+#' @import rstudioapi
 #' @import stringr
 #' @import glue
-#' @import cli
 #' @export
 
 m_detail <- function(){
@@ -20,7 +19,7 @@ m_detail <- function(){
         rstudioapi::primary_selection() %>%
         .[["text"]] %>%
         # 省略复制的步骤，参考reprex
-        str_split(n=2,pattern=' ') %>%
+        stringr::str_split(n=2,pattern=' ') %>%
         .[[1]]
     title <-
         input %>%

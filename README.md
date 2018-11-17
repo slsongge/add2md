@@ -46,6 +46,8 @@ m()
 #>  **Jiaxiang Li**
 ```
 
+### m1
+
 Write down this sentence,
 
 > <https://jiaxiangbu.github.io/add2md/> add2md官网
@@ -70,6 +72,8 @@ Shortcuts*.
 
 ![](https://raw.githubusercontent.com/JiaxiangBU/add2md/m-func/inst/pic/shortcutsetting.png)
 
+### m2
+
 Similarly, for
 > `m2`
 
@@ -80,6 +84,8 @@ Similarly, for
 m2()
 ```
 
+### m3
+
 Similarly, for `m3`
 
 > Jiaxiang Li
@@ -89,6 +95,8 @@ m3()
 ```
 
 `**Jiaxiang Li**`
+
+### m\_detail
 
     This is a summary title
     This is content like image, link and so on.
@@ -104,6 +112,10 @@ This is content like image, link and so on. It can be folded to help
 readers focus on someting important.
 
 </details>
+
+### pn2018-11-17 16:41:59
+
+Choose the add-in `pn` to print the current time\!
 
 ## Example
 
